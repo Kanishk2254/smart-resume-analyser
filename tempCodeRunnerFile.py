@@ -1,0 +1,1 @@
+text=re.sub(r'[^a-zA-Z\s]','',text)
