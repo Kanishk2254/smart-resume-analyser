@@ -3,11 +3,6 @@ import joblib
 import PyPDF2
 from PyPDF2 import PdfReader
 from PyPDF2 import PdfMerger
-#import reportlab
-#from reportlab.pdfgen import canvas
-#from reportlab.pdfbase import pdfmetrics
-#from reportlab.pdfbase.ttfonts import TTFont
-#from reportlab.lib.pagesizes import letter
 import re
 import string
 from sklearn.preprocessing import LabelEncoder
