@@ -1,7 +1,8 @@
 streamlit
-scikit-learn
 joblib
 PyPDF2
-fpdf
+scikit-learn
 numpy
+fpdf
 pandas
+string
